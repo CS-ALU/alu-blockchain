@@ -1,4 +1,4 @@
-# holbertonschool-blockchain
+# sprint 6-blockchain
 
 ## Learning Objectives
 * How a Blockchain is considered “unbreakable”
